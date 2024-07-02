@@ -1,6 +1,6 @@
 
 #  Chatbot
-the LLM chatbot to read documents and answer the queries
+The LLM chatbot to read documents and answer the queries
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 
-3. Contact Mehdi Mahmoodi at mehdi_mahmoodi@trimble.com to obtain the necessary environment file (`.env`) required for running the chat bot.
+3. Contact Mehdi Mahmoodi at mehdi-mahmoodi@datuxgroup.com to obtain the necessary environment file (`.env`) required for running the chat bot.
 
 4. Run the chat bot using Streamlit:
 - For the default chat bot version:
