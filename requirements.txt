@@ -1,0 +1,11 @@
+langchain
+python-dotenv
+openai
+fitz
+pdfplumber
+streamlit
+faiss-cpu
+altair
+tiktoken
+langchain-community
+PyPDF2

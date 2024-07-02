@@ -1,0 +1,58 @@
+# Compiled Python files
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and outputs
+*.log
+*.out
+*.err
+
+# Cached data
+*.pickle
+*.pkl
+
+# IDE settings
+.idea/
+.vscode/
+*.sublime-*
+
+# Compiled binaries or packages
+*.pyd
+*.dll
+*.exe
+*.o
+*.so
+*.dylib
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Compiled PDFs
+*.pdf
+
+# Compiled models or embeddings
+*.bin
+
+# Chat history
+chat_history/
+
+#my locals
+mehdi_test.ipynb
+LLM_TRY.ipynb
+test.ipynb
+test.py
+Mehdi_LLM.ipynb
+file_storage_
