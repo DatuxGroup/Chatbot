@@ -1,18 +1,12 @@
 
-# Construction Submittal Chat Bot
-
-Welcome to the Construction Submittal Chat Bot project! This chat bot is designed on top of the ChatGPT model to facilitate conversations about uploaded construction submittals. The bot provides a user-friendly interface to discuss and interact with the details of the submittal.
+#  Chatbot
+the LLM chatbot to read documents and answer the queries
 
 ## Getting Started
 
 To run the chat bot, follow these steps:
 
 1. Clone this repository to your local machine:
-
-```
-ssh://git@bitbucket.trimble.tools/cen/submittal_chatbot.git
-```
-
 
 2. Install the required dependencies using `pip` and the `requirements.txt` file:
 ```
